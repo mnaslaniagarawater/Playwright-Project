@@ -7,3 +7,6 @@ To run all tests
 
 To run specific test file
 - npx playwright test [path-to-file]
+
+To access test report
+- npx playwright show-report
